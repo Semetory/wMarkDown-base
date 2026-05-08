@@ -15,7 +15,7 @@ public class HelloWorld {
 #Текстовая картинка
 
 
-<code>GameApplication (extends Application)
+```text
 
 ├── GameModel (данные игры)
 │   ├── scoreProperty: IntegerProperty
@@ -36,4 +36,6 @@ public class HelloWorld {
 │   ├── eventHandlers
 │   ├── gameModel: GameModel
 └── 
-</code>
+```
+
+некий тест и числа 1234
